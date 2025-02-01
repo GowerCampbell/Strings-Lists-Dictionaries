@@ -166,18 +166,6 @@ Here are the code files for each topic:
 
 ---
 
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Navigate to the desired topic folder.
-3. Open the corresponding `.py` file to view the code and explanations.
-4. Run the code to see the outputs and experiment with the examples.
-
----
-
 Feel free to explore, learn, and contribute! If you have any questions or suggestions, please open an issue or submit a pull request.
 
 Happy coding! 🚀
