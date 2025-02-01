@@ -187,17 +187,24 @@ Here are the code files for each topic:
 
 ---
 
-## Bootcamp Notes from HyperionDev
+Here's a concise summary:  
 
-This section contains my notes and tasks from the **HyperionDev Bootcamp**.
+## Bootcamp Notes from HyperionDev  
 
-1. **Bootcamp Notes**:
-   - [knotes.py](CoGrammar-BootCamp-Tasks/knotes.py)
-2. **String Manipulation Task**:
-   - [alternative.py](CoGrammar-BootCamp-Tasks/alternative.py)
-3. **Data Structures Task**:
-   - [cafe.py](CoGrammar-BootCamp-Tasks/cafe.py)
+This section showcases my progress in the **HyperionDev Bootcamp**, focusing on Python fundamentals:  
 
+1. **Bootcamp Notes**:  
+   - [knotes.py](CoGrammar-BootCamp-Tasks/knotes.py) – Personal notes on Python basics, including variables, control structures, functions, pseudocode, list comprehensions, and Git.  
+
+2. **String Manipulation Task**:  
+   - [alternative.py](CoGrammar-BootCamp-Tasks/alternative.py) – Demonstrates string manipulation using loops, conditionals, and functions like `.upper()`, `.lower()`, `.split()`, and `.join()`.  
+
+3. **Data Structures Task**:  
+   - [cafe.py](CoGrammar-BootCamp-Tasks/cafe.py) – Explores data structures (lists, dictionaries, tuples) through a café ordering system, applying loops, conditionals, and data handling techniques.  
+
+This collection reflects my growing proficiency in Python programming.
+
+---
 
 Feel free to explore, learn, and contribute! If you have any questions or suggestions, please open an issue or submit a pull request.
 
