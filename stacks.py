@@ -1,5 +1,6 @@
 # STACKS
 # A data structure following the 'Last in, First out' (LIFO) principle
+
 # Key Features
 # Push: Adds an element to the top
 # Pop: Removes the top element
