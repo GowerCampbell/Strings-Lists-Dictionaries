@@ -1,4 +1,3 @@
-
 # Python Programming Notes: Strings, Lists, and Dictionaries
 
 Welcome to my Python programming notes repository! This repository contains detailed explanations and code examples for working with **strings**, **lists**, and **dictionaries** in Python. These notes are written in my own words and have been improved for clarity and correctness.
@@ -56,7 +55,8 @@ Lists (or arrays) are ordered collections of elements. They use an **index** to 
   - Contiguity: Stored in adjacent memory locations for fast access.
   - Mutability: Elements can be added, removed, or modified.
 
-[View Code Example](#)
+- **Explanation**: [lists-arrays.md](lists-arrays.md)
+- **Code Example**: [lists-arrays.py](lists-arrays.py)
 
 ### Dictionaries
 
@@ -67,7 +67,8 @@ Dictionaries are collections of **key-value pairs**. Each key maps to a value. D
   - Values can be of any data type.
   - Fast lookups using keys.
 
-[View Code Example](#)
+- **Explanation**: [dictionaries.md](dictionaries.md)
+- **Code Example**: [dictionaries.py](dictionaries.py)
 
 ### Stacks
 
@@ -78,7 +79,8 @@ Stacks follow the **Last In, First Out (LIFO)** principle. The last element adde
   - Pop: Remove the top element.
   - Peek: View the top element without removing it.
 
-[View Code Example](#)
+- **Explanation**: [stacks.md](stacks.md)
+- **Code Example**: [stacks.py](stacks.py)
 
 ### Queues
 
@@ -89,7 +91,8 @@ Queues follow the **First In, First Out (FIFO)** principle. The first element ad
   - Dequeue: Remove the front element.
   - Peek: View the front element without removing it.
 
-[View Code Example](#)
+- **Explanation**: [queues.md](queues.md)
+- **Code Example**: [queues.py](queues.py)
 
 ---
 
@@ -103,7 +106,8 @@ Strings are sequences of characters enclosed in single or double quotes. Common 
   - `split()`: Breaks a string into a list.
   - `join()`: Combines a list into a string.
 
-[View Code Example](#)
+- **Explanation**: [string-handling.md](string-handling.md)
+- **Code Example**: [string-handling.py](string-handling.py)
 
 ---
 
@@ -121,7 +125,8 @@ Pseudocode is a planning tool for algorithms. It uses simple language to describ
   PRINT max
   ```
 
-[View Code Example](#)
+- **Explanation**: [pseudocode.md](pseudocode.md)
+- **Code Example**: [pseudocode.py](pseudocode.py)
 
 ---
 
@@ -136,7 +141,8 @@ List comprehension is a concise way to create lists by applying an operation to 
   print(new_num_list_ints)  # Output: [1, 5, 8, 14, 25, 31]
   ```
 
-[View Code Example](#)
+- **Explanation**: [list-comprehension.md](list-comprehension.md)
+- **Code Example**: [list-comprehension.py](list-comprehension.py)
 
 ---
 
@@ -147,7 +153,8 @@ There are two ways to copy lists: **shallow copy** and **deep copy**.
 - **Shallow Copy**: Copies the outer list but not nested lists.
 - **Deep Copy**: Copies all nested lists as well.
 
-[View Code Example](#)
+- **Explanation**: [copying-lists.md](copying-lists.md)
+- **Code Example**: [copying-lists.py](copying-lists.py)
 
 ---
 
@@ -155,18 +162,45 @@ There are two ways to copy lists: **shallow copy** and **deep copy**.
 
 Here are the code files for each topic:
 
-1. **Lists/Arrays**: [lists_arrays.py](#)
-2. **Dictionaries**: [dictionaries.py](#)
-3. **Stacks**: [stacks.py](#)
-4. **Queues**: [queues.py](#)
-5. **String Handling**: [string_handling.py](#)
-6. **Pseudocode**: [pseudocode.py](#)
-7. **List Comprehension**: [list_comprehension.py](#)
-8. **Copying Lists**: [copying_lists.py](#)
+1. **Lists/Arrays**:
+   - Explanation: [lists-arrays.md](lists-arrays.md)
+   - Code Example: [lists-arrays.py](lists-arrays.py)
+2. **Dictionaries**:
+   - Explanation: [dictionaries.md](dictionaries.md)
+   - Code Example: [dictionaries.py](dictionaries.py)
+3. **Stacks**:
+   - Explanation: [stacks.md](stacks.md)
+   - Code Example: [stacks.py](stacks.py)
+4. **Queues**:
+   - Explanation: [queues.md](queues.md)
+   - Code Example: [queues.py](queues.py)
+5. **String Handling**:
+   - Explanation: [string-handling.md](string-handling.md)
+   - Code Example: [string-handling.py](string-handling.py)
+6. **Pseudocode**:
+   - Explanation: [pseudocode.md](pseudocode.md)
+   - Code Example: [pseudocode.py](pseudocode.py)
+7. **List Comprehension**:
+   - Explanation: [list-comprehension.md](list-comprehension.md)
+   - Code Example: [list-comprehension.py](list-comprehension.py)
+8. **Copying Lists**:
+   - Explanation: [copying-lists.md](copying-lists.md)
+   - Code Example: [copying-lists.py](copying-lists.py)
+
+---
+
+## How to Use This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+2. Navigate to the desired topic folder.
+3. Open the corresponding `.md` file for explanations or the `.py` file for code examples.
+4. Run the code to see the outputs and experiment with the examples.
 
 ---
 
 Feel free to explore, learn, and contribute! If you have any questions or suggestions, please open an issue or submit a pull request.
 
 Happy coding! 🚀
-
