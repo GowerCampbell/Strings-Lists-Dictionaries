@@ -1,5 +1,3 @@
-# Python Programming Notes: Strings, Lists, and Dictionaries
-
 Welcome to my Python programming notes repository! This repository contains detailed explanations and code examples for working with **strings**, **lists**, and **dictionaries** in Python. These notes are written in my own words and have been improved for clarity and correctness.
 
 ---
@@ -18,7 +16,7 @@ Welcome to my Python programming notes repository! This repository contains deta
 6. [List Comprehension](#list-comprehension)
 7. [Copying Lists](#copying-lists)
 8. [Code Files](#code-files)
-9. [How to Use This Repository](#how-to-use-this-repository)
+9. [Bootcamp Notes from HyperionDev](#bootcamp-notes-from-hyperiondev)
 
 ---
 
@@ -189,18 +187,19 @@ Here are the code files for each topic:
 
 ---
 
-## How to Use This Repository
+## Bootcamp Notes from HyperionDev
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Navigate to the desired topic folder.
-3. Open the corresponding `.md` file for explanations or the `.py` file for code examples.
-4. Run the code to see the outputs and experiment with the examples.
+This section contains my notes and tasks from the **HyperionDev Bootcamp**.
 
----
+1. **Bootcamp Notes**:
+   - [knotes.py](CoGrammar-BootCamp-Tasks/knotes.py)
+2. **String Manipulation Task**:
+   - [alternative.py](CoGrammar-BootCamp-Tasks/alternative.py)
+3. **Data Structures Task**:
+   - [cafe.py](CoGrammar-BootCamp-Tasks/cafe.py)
+
 
 Feel free to explore, learn, and contribute! If you have any questions or suggestions, please open an issue or submit a pull request.
 
 Happy coding! 🚀
+
