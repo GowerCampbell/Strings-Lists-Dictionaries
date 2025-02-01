@@ -1,5 +1,5 @@
 
-# string_handling.md
+# String Handling
 This file contains examples and detailed explanations for working with strings in Python.
 
 ## ================== Introduction to Strings ==================
