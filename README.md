@@ -1,4 +1,4 @@
-```markdown
+
 # Python Programming Notes: Strings, Lists, and Dictionaries
 
 Welcome to my Python programming notes repository! This repository contains detailed explanations and code examples for working with **strings**, **lists**, and **dictionaries** in Python. These notes are written in my own words and have been improved for clarity and correctness.
